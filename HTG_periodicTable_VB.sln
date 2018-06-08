@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HTG_periodicTable_VB", "HTG_periodicTable_VB\HTG_periodicTable_VB.vbproj", "{25F2E163-3B55-43E8-B5A5-F4BC55FE0A80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25F2E163-3B55-43E8-B5A5-F4BC55FE0A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F2E163-3B55-43E8-B5A5-F4BC55FE0A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F2E163-3B55-43E8-B5A5-F4BC55FE0A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F2E163-3B55-43E8-B5A5-F4BC55FE0A80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EFF18B4-46AD-49D9-819F-FD3357C9A003}
+	EndGlobalSection
+EndGlobal
